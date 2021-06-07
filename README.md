@@ -1,2 +1,2 @@
 # CppBasics
-C++ öğrenirken göz atılacak basit programlar
+C  öğrenirken göz atılacak basit programlar
